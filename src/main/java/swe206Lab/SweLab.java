@@ -12,6 +12,7 @@ public class SweLab {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("I AM THE OTHER DEVICE");
     }
     void ReadStudents(String[] str){
         System.err.println("Students List");
