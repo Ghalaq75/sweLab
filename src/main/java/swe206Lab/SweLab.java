@@ -16,4 +16,7 @@ public class SweLab {
     void ReadStudents(String[] str){
         System.err.println("Students List");
     }
+    void RandomStudents(){
+        System.out.println("Random List of students");
+    }
 }
